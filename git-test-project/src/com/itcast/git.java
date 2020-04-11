@@ -15,4 +15,8 @@ public class git {
     public void aa(){
         System.out.printf("aaa");
     }
+
+    public void test(){
+
+    }
 }
